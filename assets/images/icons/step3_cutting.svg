@@ -1,0 +1,8 @@
+<svg width="74" height="74" viewBox="0 0 74 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="74" height="74" rx="16" fill="#001D28"/>
+  <circle cx="37" cy="37" r="22" fill="#0A3C53" stroke="#00B4D8" stroke-width="2"/>
+  <!-- Laser Key Cut -->
+  <path d="M26 37H48M48 37L44 33M48 37L44 41" stroke="#00B4D8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M30 33V41M36 34V40M40 32V42" stroke="#FFB703" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="37" cy="27" r="2" fill="#E2E8F0"/>
+</svg>

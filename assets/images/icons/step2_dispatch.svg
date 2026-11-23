@@ -1,0 +1,10 @@
+<svg width="74" height="74" viewBox="0 0 74 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="74" height="74" rx="16" fill="#001D28"/>
+  <circle cx="37" cy="37" r="22" fill="#0A3C53" stroke="#00B4D8" stroke-width="2"/>
+  <!-- Van silhouette -->
+  <path d="M24 42V32H40L46 36V42H24Z" fill="#00B4D8"/>
+  <circle cx="29" cy="42" r="3.5" fill="#E2E8F0" stroke="#001D28" stroke-width="2"/>
+  <circle cx="41" cy="42" r="3.5" fill="#E2E8F0" stroke="#001D28" stroke-width="2"/>
+  <!-- Clock / speed -->
+  <path d="M34 24C41 24 47 30 47 37" stroke="#FFB703" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 3"/>
+</svg>

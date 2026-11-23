@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65" fill="none">
+  <!-- Precision Laser CNC Key Cutting / Sidewinder Milling -->
+  <!-- Key Blade Base -->
+  <path d="M12 40L35 17L47 29L24 52L12 40Z" stroke="#0f172a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 40L8 44C6 46 6 50 8 52L12 56C14 58 18 58 20 56L24 52" stroke="#0f172a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Laser Milling Track Groove on Blade -->
+  <path d="M22 36L28 30L33 35L38 30" stroke="#046bd2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- CNC Laser Milling Spindle Tool -->
+  <path d="M44 8L54 18" stroke="#ff6900" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40 12L36 16" stroke="#ff6900" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Laser Precision Spark Dots -->
+  <circle cx="36" cy="22" r="2" fill="#ff6900"/>
+  <circle cx="42" cy="26" r="1.5" fill="#ff6900"/>
+  <circle cx="30" cy="18" r="1.5" fill="#ff6900"/>
+</svg>

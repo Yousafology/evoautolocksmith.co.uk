@@ -1,0 +1,11 @@
+<svg width="65" height="65" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="16" fill="#001D28"/>
+  <!-- Key Ring -->
+  <circle cx="26" cy="24" r="10" stroke="#00B4D8" stroke-width="3" fill="none"/>
+  <circle cx="26" cy="24" r="5" stroke="#E2E8F0" stroke-width="1.5" fill="none"/>
+  <!-- Key 1 -->
+  <path d="M33 31L48 46M48 46L51 43M48 46L45 49M43 41L45 43" stroke="#FFB703" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Radar Wave (Emergency/Search) -->
+  <path d="M42 16C46 19 48 24 48 29" stroke="#00B4D8" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 3"/>
+  <path d="M48 11C54 15 57 22 57 29" stroke="#00B4D8" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2 3"/>
+</svg>

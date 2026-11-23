@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65" fill="none">
+  <!-- Modern Transponder Flip Key with RFID Signal Waves -->
+  <!-- Key Fob Body -->
+  <rect x="13" y="24" width="26" height="34" rx="8" stroke="#0f172a" stroke-width="2.5" fill="none"/>
+  <!-- Lock & Unlock buttons on Fob -->
+  <circle cx="26" cy="33" r="3" stroke="#046bd2" stroke-width="2"/>
+  <circle cx="26" cy="42" r="3" stroke="#046bd2" stroke-width="2"/>
+  <!-- Key Blade extending out -->
+  <path d="M26 24V9H33V14H30V17H34V20H30V24" stroke="#0f172a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Transponder RFID Radio Waves -->
+  <path d="M44 26C47 29 47 35 44 38" stroke="#046bd2" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M49 22C54 27 54 39 49 44" stroke="#046bd2" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M54 18C61 25 61 43 54 50" stroke="#046bd2" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+</svg>

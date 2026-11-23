@@ -1,0 +1,11 @@
+<svg width="65" height="65" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="16" fill="#001D28"/>
+  <rect x="20" y="24" width="24" height="32" rx="8" fill="#0A3C53" stroke="#00B4D8" stroke-width="2"/>
+  <!-- Key Blade -->
+  <path d="M28 24V10C28 9 29 8 30 8H34C35 8 36 9 36 10V24" fill="#E2E8F0" stroke="#00B4D8" stroke-width="1.5"/>
+  <path d="M36 12H32M36 16H34" stroke="#001D28" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Buttons -->
+  <circle cx="32" cy="32" r="3.5" fill="#00B4D8"/>
+  <circle cx="32" cy="40" r="3" fill="#E2E8F0"/>
+  <circle cx="32" cy="47" r="2.5" fill="#FFB703"/>
+</svg>

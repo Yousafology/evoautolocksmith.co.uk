@@ -1,0 +1,27 @@
+<svg width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Circular Path for Text -->
+    <path id="circlePath" d="M 70, 70 m -50, 0 a 50,50 0 1,1 100,0 a 50,50 0 1,1 -100,0" fill="none"/>
+  </defs>
+  
+  <!-- Main Badge Body in Vibrant Client Red -->
+  <circle cx="70" cy="70" r="68" fill="#ff0d00"/>
+  
+  <!-- Subtle Outer Border Accent -->
+  <circle cx="70" cy="70" r="66" stroke="#ffffff" stroke-width="1.5" stroke-opacity="0.4" stroke-dasharray="4 3"/>
+  
+  <!-- Curved Text Path around the circle in Crisp White -->
+  <text fill="#ffffff" font-family="'Lexend', -apple-system, sans-serif" font-size="8" font-weight="800" letter-spacing="1.8">
+    <textPath href="#circlePath" startOffset="0%">
+      • RAPID ARRIVAL • 24/7 MOBILE LOCKSMITH • LONDON WIDE •
+    </textPath>
+  </text>
+  
+  <!-- Inner White / Soft Contrast Ring -->
+  <circle cx="70" cy="70" r="34" fill="#ffffff" fill-opacity="0.18"/>
+  <circle cx="70" cy="70" r="30" fill="#ff0d00" stroke="#ffffff" stroke-width="1.5" stroke-opacity="0.6"/>
+  
+  <!-- Center Text in Bold Crisp White -->
+  <text x="70" y="67" text-anchor="middle" fill="#ffffff" font-family="'Lexend', -apple-system, sans-serif" font-size="16" font-weight="900" letter-spacing="-0.5">20-30</text>
+  <text x="70" y="78" text-anchor="middle" fill="#ffffff" font-family="'Lexend', -apple-system, sans-serif" font-size="8" font-weight="800" letter-spacing="1.5">MINS</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <path id="circlePath" d="M 100, 100 m -72, 0 a 72,72 0 1,1 144,0 a 72,72 0 1,1 -144,0" fill="none"/>
+  </defs>
+  <text font-family="'Lexend', -apple-system, sans-serif" font-size="10.5" font-weight="700" fill="#0f172a" letter-spacing="2.2">
+    <textPath href="#circlePath" startOffset="0%">
+      • 24/7 EMERGENCY MOBILE AUTO LOCKSMITH • LONDON • 07367 674000
+    </textPath>
+  </text>
+</svg>

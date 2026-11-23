@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <!-- Step 3: OBD-II ECU Diagnostic Chip Programming Icon -->
+  <rect x="5" y="5" width="14" height="14" rx="2" stroke="#046bd2" stroke-width="2"/>
+  <rect x="9" y="9" width="6" height="6" fill="#046bd2"/>
+  <path d="M9 1V5M15 1V5M9 19V23M15 19V23M1 9H5M1 15H5M19 9H23M19 15H23" stroke="#046bd2" stroke-width="2" stroke-linecap="round"/>
+</svg>

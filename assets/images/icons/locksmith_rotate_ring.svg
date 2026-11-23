@@ -1,0 +1,20 @@
+<svg width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="circlePath" d="M 70, 70 m -50, 0 a 50,50 0 1,1 100,0 a 50,50 0 1,1 -100,0" fill="none"/>
+    <mask id="centerHole">
+      <rect width="140" height="140" fill="white"/>
+      <circle cx="70" cy="70" r="38" fill="black"/>
+    </mask>
+  </defs>
+  
+  <!-- Outer Circular Ring in Vibrant Client Red with Center Cutout Hole -->
+  <circle cx="70" cy="70" r="68" fill="#ff0d00" mask="url(#centerHole)"/>
+  <circle cx="70" cy="70" r="66" stroke="#ffffff" stroke-width="1.5" stroke-opacity="0.5" stroke-dasharray="4 3" mask="url(#centerHole)"/>
+  
+  <!-- Curved Text Path around the circle in Crisp White -->
+  <text fill="#ffffff" font-family="'Lexend', -apple-system, sans-serif" font-size="7.5" font-weight="800" letter-spacing="1.5">
+    <textPath href="#circlePath" startOffset="0%">
+      &#8226; RAPID ARRIVAL &#8226; 24/7 MOBILE LOCKSMITH &#8226; LONDON WIDE &#8226;
+    </textPath>
+  </text>
+</svg>
